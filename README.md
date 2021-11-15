@@ -1,5 +1,4 @@
 ## Trust the Process
-<img src="https://1000logos.net/wp-content/uploads/2016/10/Philadelphia-76ers-Logo-1963.jpg" width="200px" alt="Go 76ers">
 
 ### Find me on [linkedIn](https://www.linkedin.com/in/3derekmason/) 
 
