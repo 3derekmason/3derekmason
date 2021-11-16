@@ -9,4 +9,4 @@
 * [HR Front End Capstone](https://github.com/IslandBois/FEC)
 
 > Moving on from the front end, this new project will be to build an API server and backend for the previous front end project.
-* [HR System Design Capstone](https:github.com)
+* [HR System Design Capstone](https://github.com/HydraSDC/qAndAPI)
