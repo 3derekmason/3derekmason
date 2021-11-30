@@ -20,3 +20,9 @@
 > On the side and for fun, I am working on my own training log app to log my workouts...
 > I began with creating database schemas in MongoDB and PostgreSQL to store eventual users, workouts, and exercises.
 * [MyTrainingLogApp](https://github.com/3derekmason/myTrainingLogApp)
+
+---
+
+## Languages/ Frameworks I've Used
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
