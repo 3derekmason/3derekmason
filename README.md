@@ -1,6 +1,8 @@
 ## Trust the Process
 
-### Find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3derekmason/)
+### Find me on 
+[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3derekmason/)
+[![Twitter](https://img.shields.io/badge/3derekmason-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/3derekmason)
 
 ## Current/Recent Projects
 
