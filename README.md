@@ -10,7 +10,7 @@
 ### STEMVP
 
 > My two day capstone for HR DEN15. A full scale app using react, express, and postgres.
-> <img url="./stemvpdemo.png" width="800px"></img>
+> ![](stemvp.png)
 
 - [STEMPV](https://github.com/3derekmason/stemvp)
 
