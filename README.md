@@ -1,4 +1,4 @@
-![](./embiidcomputer.jpeg)
+<img src="./embiidcomputer.jpeg" width="300"/>
 
 ## Trust the Process
 
