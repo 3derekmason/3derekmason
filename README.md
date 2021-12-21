@@ -1,4 +1,5 @@
-![](embiidcomputer.jpeg)
+![](./embiidcomputer.jpeg)
+
 ## Trust the Process
 
 ### Find me on
