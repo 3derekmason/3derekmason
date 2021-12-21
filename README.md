@@ -1,3 +1,4 @@
+![](embiidcomputer.jpeg)
 ## Trust the Process
 
 ### Find me on
