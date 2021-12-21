@@ -1,6 +1,9 @@
 <img src="./embiidcomputer.jpeg" width="300"/>
-
-## Trust the Process
+<div style="display:flex;">
+<h1 style="color:blue;">Trust </h1>
+<h2 style="color:white;">the</h2>
+<h1 style="color:red;">Process</h1>
+</div>
 
 ### Find me on
 
