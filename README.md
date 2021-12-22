@@ -1,11 +1,8 @@
 <img src="./embiidcomputer.jpeg" width="300"/>
-<div style="display:flex;">
-<h1 style="color:blue;">Trust </h1>
-<h2 style="color:white;">the</h2>
-<h1 style="color:red;">Process</h1>
-</div>
 
-### Find me on
+### **Trust the Process**
+
+### *Find me on*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/3derekmason/)
 [![Twitter](https://img.shields.io/badge/3derekmason-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/3derekmason)
