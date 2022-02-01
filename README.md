@@ -1,4 +1,5 @@
-## Hi there!
+## Hi there! 
+### I'm Derek, a full-stack software engineer based around Denver CO. I have a passion for problem solving and seeing others solve their problems as well.
 
 ---
 
