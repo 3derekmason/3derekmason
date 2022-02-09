@@ -1,5 +1,5 @@
 ## Hi there! 
-### I'm Derek, a full-stack software engineer in the Denver, CO area. I have a passion for problem solving and seeing others solve their problems as well.
+### I'm Derek, a full-stack software engineer in the Denver, CO area. I have a love for problem solving and seeing others solve their problems as well.
 
 ### [Head over to my personal website to learn more about me!](https://www.derekmason.dev)
 
