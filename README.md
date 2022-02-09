@@ -43,6 +43,8 @@ Some **Databases and Tools** --
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={3derekmason})
+
 
  *Find me on*
 
