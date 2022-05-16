@@ -5,7 +5,7 @@
 
 ---
 
-My favorite languages/frameworks right now --
+A few of my favorite languages/frameworks right now --
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
