@@ -1,5 +1,5 @@
-## Hi there! 
-### I'm Derek, a full-stack software engineer in the Denver, CO area. My love for problem solving and seeing others solve their problems as well has led to my strong desire to contribute to and improve my community.
+
+I'm Derek, a full-stack software engineer in the Denver, CO area. My love for problem solving and seeing others solve their problems as well has led to my strong desire to contribute to and improve my community.
 
 When not working behing a computer screen, you'll probably find me out shooting some hoops 🏀 _(Go 76ers)_, listening to/ creating/ playing music 🎼, or just somewhere exploring the beatiful state I live in! 🏔️
 
