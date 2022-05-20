@@ -20,7 +20,7 @@ But I always love finding something new to try!
 
 ---
 
-#### If you want to know more about me, go [see what I've published](https://medium.com/@derekmason) on ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+#### If you want to know more about me, go [see what I've published](https://medium.com/@derekmason) on Medium || [medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-#### Or,head over to [my personal website](https://www.derekmason.dev)!
+#### Or, head over to [my personal website](https://www.derekmason.dev)!
 
