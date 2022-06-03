@@ -1,6 +1,10 @@
-I'm Derek, a full-stack software engineer in the Denver, CO area. My love for problem solving and seeing others solve their problems as well has led to my strong desire to contribute to and improve my community.
+_Hi there!_
 
-When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76ers)_, listening to/ creating/ playing music 🎼, or just somewhere exploring the beatiful state I live in! 🏔️
+I'm Derek, a full-stack developer in/from Colorado, USA. My desire to make life better and easier for **anyone** has led me to various outlets in which I could help my community. Software development has been my path to opening doors and unlocking creativity I never thought possible. 
+
+Although I currently lean towards open source projects/framworkes, I an an avid learner and love exploring any language or technology that sounds interesting. My favorite right now is [RedwoodJS](https://redwoodjs.com/). Definitely check it out if you haven't yet! _** (not an ad)_
+
+When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76ers)_, listening to/ creating/ playing music 🎼, or just somewhere exploring the beatiful state I live in 🏔️
 
 ---
 
