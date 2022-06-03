@@ -19,6 +19,7 @@ When not working behing a computer screen, you'll probably find me out shooting 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="50"/>
 </div>
+
 ---
 
 #### If you want to know more about me, go [check out my articles](https://medium.com/@derekmason) on Medium, or head over to [my personal website](https://www.derekmason.dev)
