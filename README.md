@@ -2,7 +2,7 @@ _Hi there!_
 
 I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make life better and easier for **anyone** has led me to various outlets in which I could help my community. Software development has been my path to opening doors and unlocking creativity I never thought possible. 
 
-Although I currently lean towards open source projects/frameworks, I am an avid learner and love exploring any language or technology that sounds interesting. My favorite right now is [RedwoodJS](https://redwoodjs.com/). I highly suggest checking it out if you haven't! _(**not an ad)_
+Although I currently lean towards open source projects/frameworks, I am an avid learner and love exploring any language or technology that sounds interesting. My favorite right now is [RedwoodJS](https://redwoodjs.com/).
 
 When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76ers)_, listening to/ creating/ playing music 🎼, or just somewhere exploring the beatiful state I live in 🏔️
 
