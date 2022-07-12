@@ -8,7 +8,7 @@ When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76er
 
 ---
 
-<div diplay="flex">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50"/>
