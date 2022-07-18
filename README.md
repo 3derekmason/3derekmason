@@ -1,4 +1,5 @@
 <div align="center">
+  
 _Hi there!_
 
 I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make life better and easier for **anyone** has led me to various outlets in which I could help my community. Software development has been my path to opening doors and unlocking creativity I never thought possible. 
