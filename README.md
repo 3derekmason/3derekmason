@@ -1,14 +1,6 @@
-<div align="center">
+_Hi there!_ :wave:
   
-_Hi there!_
-
-I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make life better and easier for **anyone** has led me to various outlets in which I could help my community. Software development has been my path to opening doors and unlocking creativity I never thought possible. 
-
-I am an avid learner and love exploring any language or technology that sounds interesting.
-
-When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76ers)_, listening to/ creating/ playing music 🎼, or just somewhere exploring the beatiful state I live in 🏔️
-
-</div>
+I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make life better and easier for anyone has led me to various outlets in which I could help my community. I am an avid learner and love exploring any language or technology that sounds interesting.
 
 ---
 
@@ -30,4 +22,8 @@ When not working, you'll probably find me out shooting some hoops 🏀 _(Go 76er
 
 ---
 
-#### If you want to know more about me, go [check out what I've written](https://medium.com/@derekmason) on Medium, or head over to [my personal website](https://www.derekmason.dev)
+#### More from me:
+
+* [derekmason.dev](https://derekmason.dev) - Visit my personal website
+* [medium.com/@derekmason](https://medium.com/@derekmason) - Read my stories on Medium
+* [dmpm](dmpm.vercel.app) - View my published Javascript packages
