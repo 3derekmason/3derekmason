@@ -26,4 +26,4 @@ I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make l
 
 * [derekmason.dev](https://derekmason.dev) - Visit my personal website
 * [medium.com/@derekmason](https://medium.com/@derekmason) - Read my stories on Medium
-* [dmpm](dmpm.vercel.app) - View my published Javascript packages
+* [dmpm](https://dmpm.vercel.app) - View my published Javascript packages
