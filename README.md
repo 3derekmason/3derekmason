@@ -7,13 +7,13 @@ I'm Derek, a full-stack developer in and from Colorado, USA. My desire to make l
 <div align="center">
 <p>My favorites right now - </p>
 
-<img src="./mark.png" width="64" />
-<img src="./mongo-svgrepo-com.svg" width="64" />
-<img src="./nextjs-icon-svgrepo-com.svg" width="64" />
-<img src="./nuxt-svgrepo-com.svg" width="64" />
-<img src="./sass-svgrepo-com.svg" width="64" />
-<img src="./supabase-logo-icon.png" width="64" />
-<img src="./svelte-icon-svgrepo-com.svg" width="64" />
+<img src="./mark.png" alt="RedwoodJS" width="64" />
+<img src="./mongo-svgrepo-com.svg" alt="MongoDB" width="64" />
+<img src="./nextjs-icon-svgrepo-com.svg" alt="NextJS" width="64" />
+<img src="./nuxt-svgrepo-com.svg" alt="NuxtJS" width="64" />
+<img src="./sass-svgrepo-com.svg" alt="Sass/Scss" width="64" />
+<img src="./supabase-logo-icon.png" alt="Supabase" width="64" />
+<img src="./svelte-icon-svgrepo-com.svg" alt="Svelte/Sveltekit" width="64" />
 </div>
 
 ---
